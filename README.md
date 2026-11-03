@@ -1,9 +1,3 @@
-# PDP-CR — Thuật toán heuristic (Julia)
-
-Phần việc của **Người 2**: tabu search, các biến thể TSO/TSR, và lân cận *redistribute* cho bài toán Pickup and Delivery with Cooperative Robots (`Thao_ICAMCS_special_issue.pdf`).
-
-Code chỉ dùng thư viện chuẩn của Julia (Random, Printf, Statistics, Test). Đã chạy thử với Julia 1.13.
-
 ## Cấu trúc
 
 ```
